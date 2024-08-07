@@ -1,0 +1,7 @@
+1.sun day
+2.mon day
+3.tues day
+4.wednes day
+5.thurs day
+6.fri day
+7.satur day
